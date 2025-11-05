@@ -1,7 +1,7 @@
 {
   "ios": {
-    "minimumVersion": "1.2.3",
-    "latestVersion": "1.2.3",
+    "minimumVersion": "1.2.4",
+    "latestVersion": "1.2.4",
     "updateRequired": true,
     "updateMessage": "A new version is available with bug fixes and improvements.",
     "forceUpdateMessage": "This version is no longer supported. Please update to continue using Coach Chad."
