@@ -1,0 +1,16 @@
+{
+  "ios": {
+    "minimumVersion": "1.2.3",
+    "latestVersion": "1.2.3",
+    "updateRequired": false,
+    "updateMessage": "A new version is available with bug fixes and improvements.",
+    "forceUpdateMessage": "This version is no longer supported. Please update to continue using Coach Chad."
+  },
+  "android": {
+    "minimumVersion": "1.2.0",
+    "latestVersion": "1.2.3",
+    "updateRequired": false,
+    "updateMessage": "A new version is available with bug fixes and improvements.",
+    "forceUpdateMessage": "This version is no longer supported. Please update to continue using Coach Chad."
+  }
+}
